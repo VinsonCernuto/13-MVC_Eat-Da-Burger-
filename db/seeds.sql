@@ -1,4 +1,4 @@
-use burgers_db;
+use x6mjk1gi8yjg8lh2;
 insert into burgers (burger_name)
 values ("Classic Bacon and Cheese Burger");
 insert into burgers (burger_name)
