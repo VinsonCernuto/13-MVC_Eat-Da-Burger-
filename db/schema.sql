@@ -1,6 +1,3 @@
-DROP DATABASE IF EXISTS x6mjk1gi8yjg8lh2;
-CREATE DATABASE x6mjk1gi8yjg8lh2;
-
 use x6mjk1gi8yjg8lh2;
 
 create table burgers (
